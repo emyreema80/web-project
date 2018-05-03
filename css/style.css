@@ -1,5 +1,5 @@
 html, body {
-	background-color: #fff;
+	background-color: #fff0;
 	color: #636b6f;
 	font-family: 'Raleway', calibri;
 	font-weight: 100;
@@ -47,6 +47,7 @@ html, body {
 	letter-spacing: .1rem;
 	text-decoration: none;
 	text-transform: uppercase;
+	box-shadow : 1px 1px 2px;
 }
 
 .m-b-md {
